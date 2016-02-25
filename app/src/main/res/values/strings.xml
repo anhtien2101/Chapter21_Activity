@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Chapter21_StartMapActivity</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
